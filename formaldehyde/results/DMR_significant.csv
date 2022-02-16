@@ -1,0 +1,2 @@
+chr,start,end,value,area,cluster,indexStart,indexEnd,L,clusterL,p.value,fwer,p.valueArea,fwerArea,gene_id,gene_symbol,width,gene_start,gene_end,gene_width
+chr7,27182493,27184667,-0.216253022,9.515132973,120846,166026,166069,44,51,8.88E-06,0.01,0.000222075,0.223333333,3202,HOXA5,2174,27180671,27183287,2617

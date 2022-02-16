@@ -1,0 +1,1 @@
+Software code in the R programming language for two cross-sectional epigenome-wide association studies (EWAS) using HumanMethylation450 BeadChips: one EWAS in workers exposed to benzene, including 50 exposed and 48 unexposed subjects, and another in workers exposed to formaldehyde, including 31 exposed and 43 unexposed subjects. 
